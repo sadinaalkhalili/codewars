@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Alternate Delivery Truck icon (outline, minimal) -->
+  <!-- Cargo box -->
+  <rect x="3" y="7" width="10" height="8" rx="1.5" ry="1.5"/>
+  <!-- Cabin -->
+  <path d="M13 10 h3.2 a2 2 0 0 1 1.6 0.8 l2.2 2.7 a1 1 0 0 1 .2.6 v0.9 h-4"/>
+  <!-- Ground line under cabin step -->
+  <path d="M2 15.5 h2"/>
+  <!-- Wheels -->
+  <circle cx="7.5" cy="17" r="1.75"/>
+  <circle cx="17" cy="17" r="1.75"/>
+  <!-- Axle / base line -->
+  <path d="M9.3 17 H15.2"/>
+  <!-- Window hint -->
+  <path d="M16 11.5 h-2 v-1.5"/>
+  <!-- Speed lines (optional accent) -->
+  <path d="M3 9.5 h-1.5" opacity="0.45"/>
+  <path d="M3 12 h-2" opacity="0.45"/>
+</svg>

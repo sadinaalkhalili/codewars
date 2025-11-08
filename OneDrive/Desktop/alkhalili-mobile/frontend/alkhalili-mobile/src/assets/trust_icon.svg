@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Trust icon: minimal handshake -->
+  <!-- Left sleeve/arm -->
+  <path d="M3 15 l4 -4 l3 3"/>
+  <!-- Right sleeve/arm -->
+  <path d="M21 15 l-4 -4 l-3 3"/>
+  <!-- Palms meeting -->
+  <path d="M8.5 13.5 c1.2 1.2 3.1 1.2 4.3 0"/>
+  <path d="M15.5 11.5 c-1.2 1.2 -3.1 1.2 -4.3 0"/>
+  <!-- Interlaced fingers -->
+  <path d="M9.5 14.5 l1.3 1.3"/>
+  <path d="M11 15.8 l1.3 1.3"/>
+  <path d="M12.5 17.1 l1.3 1.3"/>
+  <!-- Thumb hints -->
+  <path d="M7.5 12.5 l1 1"/>
+  <path d="M16.5 10.5 l-1 1"/>
+  <!-- Optional subtle heart above handshake -->
+  <path d="M9 6.8 c0 -0.9 0.7 -1.6 1.6 -1.6 c0.6 0 1.1 0.3 1.4 0.8 c0.3 -0.5 0.8 -0.8 1.4 -0.8 c0.9 0 1.6 0.7 1.6 1.6 c0 1.8 -3 3.2 -3 3.2 s-3 -1.4 -3 -3.2" opacity="0.45"/>
+</svg>

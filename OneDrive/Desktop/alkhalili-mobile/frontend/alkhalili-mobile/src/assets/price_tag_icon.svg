@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Price Tag icon: hex tag with tie corner and hole -->
+  <!-- Tag outline: start at top-right 'tie' corner, go around the tag -->
+  <path d="M20 7.5 L12.5 2 L4 2 C3.4477 2 3 2.4477 3 3 L3 11.5 L10.5 19 C11.328 19.828 12.672 19.828 13.5 19 L20 12.5 C20.828 11.672 20.828 10.328 20 9.5 L20 7.5 Z"/>
+  <!-- Hole for string -->
+  <circle cx="7.25" cy="6.25" r="1.25"/>
+  <!-- Subtle diagonal accent (optional percentage/currency hint) -->
+  <path d="M9 11 L15 17" opacity="0.45"/>
+</svg>
